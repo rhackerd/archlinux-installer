@@ -22,11 +22,11 @@ lv_root_size="128G"
 lv_home_size="100%FREE"
 
 # Configuration
-keymap="fr"
-hostname="laptop"
-timezone="Europe/Paris"
+keymap="cs-qwrtz"
+hostname="rhacker"
+timezone="Europe/Prague"
 locale="en_US"
-username="david"
+username="rhacker"
 
 # Default packages
 declare -a default_packages=(
